@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohitkadu16
-- 👀 I’m interested in Coding, Drawing, Playing Piano, Video editing, Chess
+- 👀 I’m interested in Coding, Drawing, Playing Piano, Video editing, Chess, Photography 
 - 🌱 I’m currently learning Web Dev (Front-End) and
 - 📫 Studying Diploma in Electronics & Telecommunication at Vidyalankar Polytechnic
 - 💞️ I’m looking to collaborate on ...
