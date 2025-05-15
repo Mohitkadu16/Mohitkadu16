@@ -7,8 +7,19 @@
 - 😄 Call Me: Mohit / Mohit Kadu / LoyalManuka
 - ⚡ Fun fact: There's Nothing Fun In Life's Fact.....
 
-- My Github Stats.....
-![Mohitkadu16's Stats](https://github-readme-stats.vercel.app/api?username=Mohitkadu16&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+## 📊 My GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohitkadu16&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="Mohitkadu16's Stats" />
+  <br><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitkadu16&theme=vue-dark&hide_border=false" alt="Mohitkadu16's Streak" />
+  <br><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkadu16&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Mohitkadu16's Top Languages" />
+
+</div>
 
 <!---
 Mohitkadu16/Mohitkadu16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
