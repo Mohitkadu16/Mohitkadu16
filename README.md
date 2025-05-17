@@ -1,11 +1,47 @@
-- 👋 Hi, I’m @Mohitkadu16
-- 👀 I’m interested in Coding, Drawing, Playing Piano, Video editing, Chess, Photography 
-- 🌱 I’m currently learning Web Dev (Front-End) and
-- 📫 Studying Diploma in Electronics & Telecommunication at Vidyalankar Polytechnic
-- 💞️ I’m looking to collaborate on ...
-- 📫 Contact me: My mail: moihtkadu13@gmail.com Instagram: https://www.instagram.com/loyalmanuka/
-- 😄 Call Me: Mohit / Mohit Kadu / LoyalManuka
-- ⚡ Fun fact: There's Nothing Fun In Life's Fact.....
+## 👋 Hey there, I’m Mohit Kadu — aka *LoyalManuka*
+
+🎓 Currently pursuing a **Diploma in Electronics & Telecommunication**  
+📍 Studying at *Vidyalankar Polytechnic, Mumbai*
+
+---
+
+### 🌱 What I'm Learning
+- Front-End Web Development  
+- React & JavaScript  
+- UI/UX Tools like **Figma**, and Git/GitHub workflows  
+
+---
+
+### 🎨 What I Love
+- 🎹 Playing Piano & Composing Tunes  
+- ✏️ Drawing & Doodling  
+- 🎬 Editing Videos & Short Films  
+- ♟️ Chess (Checkmate vibes 😎)  
+- 📷 Capturing life through my lens  
+
+---
+
+### 🤝 Let’s Collaborate On
+*Web development projects, frontend designs, or anything creative & tech-driven!*
+
+---
+
+### 📫 How to Reach Me
+- 📧 Email: [moihtkadu13@gmail.com](mailto:moihtkadu13@gmail.com)  
+- 📸 Instagram: [@loyalmanuka](https://www.instagram.com/loyalmanuka/)  
+- 🧑‍💻 GitHub: [@Mohitkadu16](https://github.com/Mohitkadu16)
+
+---
+
+### 😄 Also Known As:
+**Mohit**, **Mohit Kadu**, or **LoyalManuka**
+
+---
+
+### ⚡ Fun Fact
+> There's nothing *fun* in life's facts — so I try to create the fun myself. 😉
+
+
 
 ## 🛠️ Languages & Technologies
 
