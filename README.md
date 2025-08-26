@@ -58,7 +58,7 @@ A student project manager built with TypeScript + React + Firebase. Helps track 
 
 ### 🔹 AetherSurf *(in progress)*  
 An **AI-powered browser** that searches with OpenAI/Ollama and displays results in multiple formats (text, images, videos, websites). Includes search history, model toggle, and a modern UI.  
-**Tech:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+**Tech:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABSElEQVR42mL8//8/AyUYTFhYGBgYGJgYzEH4HxgY+APxJSUlE7uEhISEiZBLTEyMJiYmugERw38gPgTEAHGLiYmRgZE/ArEBCDIxMfE34v///9dA7YeEhIQBGPgD8UBNYPjFxcWfCIwY0whSMzMzZxKe4Obm9nAwMDAw/M/BxMTkBqZt27b9lQFyyDUgn4H8IUzEHtjAwMDAQhZMLSYDs2LFj5uLoiQMDA3dlZmaCAgYGpp3g1jAZhxN5GBgYnlUOijLAQMeMjFQAfRQ0AloQk1EB1kqZDooF3HugAnJyc7PYDLxGbSwIGBjYzMPAQBO04HgAFsAmgQwETPGRi8/wC4k1O8CR+PgAAKc7UowgEKJAAAAAElFTkSuQmCC) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
