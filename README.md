@@ -70,9 +70,8 @@ An **AI-powered browser** that searches with OpenAI/Ollama and displays results 
 
 ## 📫 Connect with Me  
 - 🌐 Portfolio: [mohitkaduportfolio.netlify.app](https://mohitkaduportfolio.netlify.app/)  
-- 💼 LinkedIn: *(add your link if ready)*  
-- 📷 Instagram: *(optional, if you want to show creativity)*  
-
+- 💼 LinkedIn: [Mohit Kadu](https://www.linkedin.com/in/mohit-kadu-856410243)  
+- 📷 Instagram: [@loyalmanuka](https://www.instagram.com/loyalmanuka/)
 ---
 
 ✨ *“Code with logic, design with creativity, and build with passion.”*
