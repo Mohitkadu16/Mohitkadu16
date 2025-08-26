@@ -50,7 +50,7 @@ Personal portfolio built with React & CSS. Dark-themed, responsive, and showcase
 
 ---
 
-### 🔹 [StudKits](https://github.com/Mohitkadu16/StudKits)  
+### 🔹 [StudKits](https://studkits.vercel.app/) 
 A student project manager built with TypeScript + React + Firebase. Helps track assignments and deadlines.  
 **Tech:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
