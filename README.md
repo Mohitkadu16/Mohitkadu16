@@ -3,7 +3,7 @@
 💻 **Web Developer | AI-Assisted Coder | UI/UX Enthusiast**  
 🎯 Passionate about building responsive websites, experimenting with creative projects,  
 and exploring how AI can assist coding workflows.  
-<img src="./new ai dp.jpg" align="right" width="210" height="210">
+<img src="./github-pfp.jpg" align="right" width="210" height="210">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohitkadu16&style=for-the-badge&color=blue)
 
