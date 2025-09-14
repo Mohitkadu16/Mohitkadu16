@@ -1,16 +1,9 @@
 # 👋 Hi, I’m Mohit Kadu (LoyalManuka) 
 
-<table>
-  <tr>
-    <td>
-      💻 **Web Developer | AI-Assisted Coder | UI/UX Enthusiast**  
-      🎯 Passionate about building responsive websites, experimenting with creative projects, and exploring how AI can assist coding workflows.  
-    </td>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/137586181?v=4" alt="profile" width="150" style="border-radius:50%;"/>
-    </td>
-  </tr>
-</table>
+💻 **Web Developer | AI-Assisted Coder | UI/UX Enthusiast**  
+🎯 Passionate about building responsive websites, experimenting with creative projects,  
+and exploring how AI can assist coding workflows.  
+<img src="./new ai dp.jpg" align="right" width="210" height="210">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohitkadu16&style=for-the-badge&color=blue)
 
