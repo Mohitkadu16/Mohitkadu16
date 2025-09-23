@@ -17,6 +17,10 @@ and exploring how AI can assist coding workflows.
 - ⚡ Fun Fact: I don’t wait for fun — I create it!  
 
 ---
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Dhs4P2SVCD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@loyalmauka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohit-kadu-856410243) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Fair-Department-7535) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@channel/UCkaYrvUKNB-11J5IZT_BP4w) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitkadu13@gmail.com) 
+
+---
 
 ## 🛠️ Skills  
 
@@ -60,6 +64,11 @@ An **AI-powered browser** that searches with OpenAI/Ollama and displays results 
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohitkadu16&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkadu16&layout=compact&theme=radical)  
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mohitkadu16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
