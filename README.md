@@ -22,10 +22,17 @@ and exploring how AI can assist coding workflows.
 
 ---
 
-## 🛠️ Skills  
+## 🖥️ Languages
+![](https://github-widgetbox.vercel.app/api/skills?languages=html,css,javascript,typescript&theme=nautilus&includeNames=true)
 
-## 🛠️ Skills  
-![](https://github-widgetbox.vercel.app/api/skills?languages=html,css,javascript,typescript,react,nodejs,python,cpp,git,github&theme=nautilus&includeNames=true)
+## 🏗️ Frameworks
+![](https://github-widgetbox.vercel.app/api/skills?frameworks=nextjs,nodejs&theme=nautilus&includeNames=true)
+
+## 📚 Libraries
+![](https://github-widgetbox.vercel.app/api/skills?libraries=react,npm,firebase&theme=nautilus&includeNames=true)
+
+## ⚙️ Tools
+![](https://github-widgetbox.vercel.app/api/skills?tools=git,github&theme=nautilus&includeNames=true)
   
 
 ---
