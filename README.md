@@ -72,6 +72,11 @@ An **AI-powered browser** that searches with OpenAI/Ollama and displays results 
 
 ---
 
+## 🔣 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkadu16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 📫 Connect with Me  
 - 🌐 Portfolio: [mohitkaduportfolio.netlify.app](https://mohitkaduportfolio.netlify.app/)  
 - 💼 LinkedIn: [Mohit Kadu](https://www.linkedin.com/in/mohit-kadu-856410243)  
