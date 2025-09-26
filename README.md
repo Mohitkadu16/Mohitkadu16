@@ -24,7 +24,8 @@ and exploring how AI can assist coding workflows.
 
 ## 🛠️ Skills  
 
-![](https://github-widgetbox.vercel.app/api/skills?names=html,css,js,ts,react,nodejs,python,cpp,git,github&theme=tokyonight)
+## 🛠️ Skills  
+![](https://github-widgetbox.vercel.app/api/skills?languages=html,css,javascript,typescript,react,nodejs,python,cpp,git,github&theme=nautilus&includeNames=true)
   
 
 ---
