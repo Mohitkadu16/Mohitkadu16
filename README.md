@@ -71,6 +71,10 @@ An **AI-powered browser** that searches with OpenAI/Ollama and displays results 
 ![](https://github-profile-trophy.vercel.app/?username=Mohitkadu16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+## 🫂 Top Contributions
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/Mohitkadu16/contributions)
+
+---
 
 ## 📫 Connect with Me  
 - 🌐 Portfolio: [mohitkaduportfolio.netlify.app](https://mohitkaduportfolio.netlify.app/)  
