@@ -14,7 +14,13 @@ and exploring how AI can assist coding workflows.
 - 🌱 Learning: **React, TypeScript, and UI/UX design in Figma**.  
 - 🤝 Open to: Collaborating on web dev, frontend projects, or creative side-projects.  
 - 🎨 Hobbies: Music, video editing, photography, chess, and drawing.  
-- ⚡ Fun Fact: I don’t wait for fun — I create it!  
+- ⚡ Fun Fact: I don’t wait for fun — I create it! 
+
+---
+
+## 🎵 Now Playing on Spotify  
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/5ThyDv6aRVU8AH4vXQNldF?si=_7J2K0sgSvWaWSioTO0rtw)  
 
 ---
 ## 🌐 Socials:
