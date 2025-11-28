@@ -78,7 +78,7 @@ An **AI-powered browser** that searches with OpenAI/Ollama and displays results 
 ---
 
 ## 📫 Connect with Me  
-- 🌐 Portfolio: [mohitkaduportfolio.netlify.app](https://mohitkaduportfolio.netlify.app/)  
+- 🌐 Portfolio: [mohitkadu.vercel.app](https://mohitkadu.vercel.app/)  
 - 💼 LinkedIn: [Mohit Kadu](https://www.linkedin.com/in/mohit-kadu-856410243)  
 - 📷 Instagram: [@loyalmanuka](https://www.instagram.com/loyalmanuka/)
 ---
