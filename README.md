@@ -63,6 +63,12 @@ An **AI-powered browser** that searches with OpenAI/Ollama and displays results 
 
 ---
 
+### 🔹 [TaskWise AI](https://task-wise-ai-six.vercel.app/) <-- Click Title To View  
+An **AI-powered task & productivity assistant** that helps users organize tasks, generate insights, analyze workload, and stay productive with clean UI and smart suggestions.  
+**Tech:** ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohitkadu16&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkadu16&layout=compact&theme=radical)  
 
