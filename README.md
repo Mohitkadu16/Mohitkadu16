@@ -78,10 +78,6 @@ An **AI-powered task & productivity assistant** that helps users organize tasks,
 ![](https://github-profile-trophy.vercel.app/?username=Mohitkadu16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-## 🫂 Top Contributions
-![Github Contributions](https://greptile-stats.vercel.app/api/widget/Mohitkadu16/contributions)
-
----
 
 ## 📫 Connect with Me  
 - 🌐 Portfolio: [mohitkadu.vercel.app](https://mohitkadu.vercel.app/)  
