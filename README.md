@@ -80,6 +80,7 @@ An **AI-powered task & productivity assistant** that helps users organize tasks,
 ---
 
 ## 📫 Connect with Me  
+- 🌐 Dev-Portfolio: [mohitkadu-dev.vercel.app](https://mohitkadu-dev.vercel.app/)  
 - 🌐 Portfolio: [mohitkadu.vercel.app](https://mohitkadu.vercel.app/)  
 - 💼 LinkedIn: [Mohit Kadu](https://www.linkedin.com/in/mohit-kadu-856410243)  
 - 📷 Instagram: [@loyalmanuka](https://www.instagram.com/loyalmanuka/)
