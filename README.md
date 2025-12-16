@@ -70,14 +70,15 @@ An **AI-powered task & productivity assistant** that helps users organize tasks,
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohitkadu16&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkadu16&layout=compact&theme=radical)  
+![](https://github-readme-stats.vercel.app/api?username=Mohitkadu16&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohitkadu16&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkadu16&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Mohitkadu16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Mohitkadu16&theme=onedark)
-
----
 
 ## 📫 Connect with Me  
 - 🌐 Dev-Portfolio: [mohitkadu-dev.vercel.app](https://mohitkadu-dev.vercel.app/)  
