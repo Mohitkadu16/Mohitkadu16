@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mohit Kadu (LoyalManuka) 
 
-💻 **💻 Full-Stack Developer building AI-powered web applications**  
+**💻 Full-Stack Developer building AI-powered web applications**  
 🎯 Passionate about building responsive websites, experimenting with creative projects,  
 and exploring how AI can assist coding workflows.  
 <img src="./github-pfp.png" align="right" width="350" height="350">
