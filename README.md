@@ -23,7 +23,7 @@ and exploring how AI can assist coding workflows.
 
 ## 🚀 Featured Projects
 
-### 🔹 [StudKits](https://www.studkits.shop/) <-- Click to View  
+### 🔹 [StudKits](https://www.studkits.vercel.app/) <-- Click to View  
 Platform helping students discover project ideas, kits, and learning resources.
 
 Tech: React • TypeScript • Firebase
